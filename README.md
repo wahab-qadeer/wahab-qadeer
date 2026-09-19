@@ -1,62 +1,54 @@
-<!-- Visitor Badge & Header Banner -->
+<!-- Visitor Badge & Animated Typing Header -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=wahab-qadeer&label=Profile%20Views&color=00f0ff&style=for-the-badge" alt="wahab-qadeer views" />
+  <img src="https://komarev.com/ghpvc/?username=wahab-qadeer&label=Profile%20Views&color=2ecc71&style=flat-square" alt="wahab-qadeer views" />
 </p>
 
-<h1 align="center">👋 Hi, I'm Wahab Qadeer</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=30&duration=2000&pause=1000&color=2ecc71&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Wahab+Qadeer+👋;BS(AI)+Student+%40+BIIT;AI+%26+Machine+Learning+Developer;Software+%26+OOP+Specialist" alt="Typing SVG" />
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=BS(AI)+Student+%40+BIIT;AI+%26+Machine+Learning+Developer;Java+%26+C%2B%2B+Programmer;Building+Smart+Systems" alt="Typing SVG" />
-</p>
+<div align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmaqkqsxj9xpr4zbq5v2mldcngb2&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="180">
+</div>
+<br>
 
 ---
 
-### 🚀 About Me
-
-- 🎓 **Student:** BS in Artificial Intelligence at BIIT.
-- 💻 **Core Focus:** Software Development, Problem Solving, and AI.
-- 🌱 **Currently Learning:** Advanced Java, Kotlin, Data Structures & Algorithms, and Backend Development.
-- 🛠️ **Key Projects:** Smart Hospital Management, Smart Irrigation System, Fire Brigade Automation, and Web Apps.
-- 📧 **Get in Touch:** [realwahabqadeer@gmail.com](mailto:realwahabqadeer@gmail.com)
+### 👨‍💻 About Me
+* 🎓 Currently studying **BS in Artificial Intelligence at BIIT**.
+* 🌱 Currently learning **Advanced Java, Kotlin, Data Structures & Algorithms, and Backend Development**.
+* 💡 Focused on software development, problem-solving, and building practical automation and AI projects.
+* 👯 Open to collaborating on **AI/ML, Java, and C++ projects**.
+* 📫 Reach out to me: **realwahabqadeer@gmail.com**
 
 ---
 
 ### 🛠️ Tech Stack & Skills
-
-<p align="center">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/Artificial_Intelligence-FF6F00?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine_Learning-00E5FF?style=for-the-badge&logo=scikit-learn&logoColor=black" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
+<div align="center">
+  <!-- Animated floating tech icons -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,cpp,kotlin,html,css,mysql,arduino,git,github,vscode&perline=10" />
+  </a>
+</div>
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Analytics & Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wahab-qadeer&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=2ecc71&icon_color=2ecc71" alt="Wahab's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wahab-qadeer&theme=tokyonight&hide_border=true&ring=2ecc71&fire=2ecc71&currStreakNum=2ecc71" alt="Wahab's GitHub Streak" width="48%" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wahab-qadeer&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Wahab's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wahab-qadeer&theme=tokyonight&hide_border=true" alt="Wahab's GitHub Streak" width="48%" />
-</p>
+<br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahab-qadeer&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahab-qadeer&layout=compact&theme=tokyonight&hide_border=true&title_color=2ecc71" alt="Top Languages" />
+</div>
 
 ---
 
-### 🌐 Connect With Me
-
-<p align="center">
+### 🤝 Connect with Me
+<div align="center">
   <a href="https://www.linkedin.com/in/wahab-qadeer/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -66,4 +58,4 @@
   <a href="mailto:realwahabqadeer@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</p>
+</div>
