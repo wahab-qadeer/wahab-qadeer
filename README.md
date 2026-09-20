@@ -37,10 +37,10 @@
 
 ### 📂 Featured Projects
 
-* 🏥 **[Smart Hospital Management System](https://github.com/wahab-qadeer/Smart-Hospital-Management):** A robust Java and OOP-based platform utilizing SQL databases to handle records and administrative tasks efficiently.
-* ✈️ **[Flight Reservation System](https://github.com/wahab-qadeer/Flight-Reservation-System):** A comprehensive database application demonstrating relational modeling, cardinality design, and advanced SQL queries.
-* 🌱 **[Smart Irrigation System](https://github.com/wahab-qadeer/Smart-Irrigation-System):** A precision C++ console project featuring automated scheduling logic, soil monitoring, and array manipulations.
-* 🚒 **[Smart Automatic Fire Brigade](https://github.com/wahab-qadeer/Smart-Automatic-Fire-Brigade):** An Arduino-powered hardware automation setup leveraging digital logic design principles for rapid fire detection and response.
+* 🏥 **[Smart Hospital Management System](https://github.com/wahab-qadeer/smart-hospital-management-java):** A robust Java and OOP-based platform utilizing SQL databases to handle records and administrative tasks efficiently.
+* ✈️ **[Flight Reservation System](https://github.com/wahab-qadeer/flight-reservation-system-sql):** A comprehensive database application demonstrating relational modeling, cardinality design, and advanced SQL queries.
+* 🌱 **[Smart Irrigation System](https://github.com/wahab-qadeer/smart-irrigation-system-cpp):** A precision C++ console project featuring automated scheduling logic, soil monitoring, and array manipulations.
+* 🚒 **[Smart Automatic Fire Brigade](https://github.com/wahab-qadeer/smart-automatic-fire-brigade-arduino):** An Arduino-powered hardware automation setup leveraging digital logic design principles for rapid fire detection and response.
 
 ---
 
