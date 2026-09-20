@@ -1,28 +1,28 @@
 <div align="center">
   <!-- Dynamic Gradient Wave Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0052D4,50:4364F7,100:6FB1FC&amp;height=220&amp;section=header&amp;text=WAHAB%20QADEER&amp;fontSize=46&amp;fontAlignY=38&amp;fontColor=ffffff&amp;desc=BS(AI)%20Scholar%20•%20AI%20%26%20ML%20Engineer%20•%20Software%20Specialist&amp;descFontSize=17&amp;descAlignY=60&amp;descColor=00F2FE" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,50:4364F7,100:6FB1FC&height=220&section=header&text=WAHAB%20QADEER&fontSize=46&fontAlignY=38&fontColor=ffffff&desc=BS(AI)%20Scholar%20•%20AI%20and%20ML%20Engineer%20•%20Software%20Specialist&descFontSize=17&descAlignY=60&descColor=00F2FE" width="100%" alt="Header Banner" />
 
   <!-- Animated Neon Typing Subtitle -->
   <a href="https://wahab-qadeer.github.io/portfolio/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=23&amp;pause=1200&amp;color=00F2FE&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=BS(AI)+Scholar+%40+BIIT;AI+%26+Machine+Learning+Developer;OOP+%26+Backend+Software+Specialist;Building+Intelligent+Autonomous+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1200&color=00F2FE&center=true&vCenter=true&width=700&lines=BS(AI)+Scholar+%40+BIIT;AI+and+Machine+Learning+Developer;OOP+and+Backend+Software+Specialist;Building+Intelligent+Autonomous+Systems" alt="Typing SVG" />
   </a>
 
   <br/><br/>
 
   <!-- Interactive Quick Links & Badges -->
   <a href="https://wahab-qadeer.github.io/portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/LIVE_PORTFOLIO-00F2FE?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=000000" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/LIVE_PORTFOLIO-00F2FE?style=for-the-badge&logo=googlechrome&logoColor=000000" alt="Portfolio" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/wahab-qadeer/" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="mailto:realwahabqadeer@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL_ME-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/EMAIL_ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=wahab-qadeer&amp;color=00F2FE&amp;style=for-the-badge&amp;label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=wahab-qadeer&color=00F2FE&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
 <br/>
@@ -32,7 +32,7 @@
   <tr>
     <td width="65%" valign="top">
       <h3 style="color: #58a6ff; margin-top: 0;">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="26" height="26" /> About Me &amp; Research Focus
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="26" height="26" /> About Me and Research Focus
       </h3>
       <p style="color: #c9d1d9; font-size: 14px; line-height: 1.6;">
         I am an Artificial Intelligence undergraduate at <strong>Barani Institute of Information Technology (BIIT)</strong>. My work bridges mathematical algorithms, resilient <strong>Object-Oriented Architectures</strong>, and real-time physical automation.
@@ -45,47 +45,50 @@
       </div>
     </td>
     <td width="35%" align="center" valign="middle">
-      <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/wahab-qadeer&amp;w=170&amp;h=170&amp;fit=cover&amp;mask=circle&amp;output=webp" alt="Wahab Qadeer Avatar" style="border: 3px solid #00F2FE; border-radius: 50%;" />
+      <!-- Animated Code Bracket Replacement for Avatar -->
+      <a href="https://wahab-qadeer.github.io/portfolio/">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=60&pause=2000&color=00F2FE&center=true&vCenter=true&width=200&height=150&lines=%3C%2F%3E;%7B+%7D;(%20);%5B+%5D" alt="Animated Code Brackets" />
+      </a>
     </td>
   </tr>
 </table>
 
 <br/>
 
-<!-- ==================== TECH STACK & ECOSYSTEM ==================== -->
+<!-- ==================== TECH STACK ==================== -->
 <div align="center">
   <h2 style="color: #58a6ff;">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Flexed%20Biceps.png" width="28" height="28" /> Tech Stack &amp; Tooling
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Flexed%20Biceps.png" width="28" height="28" /> Tech Stack and Tooling
   </h2>
 </div>
 
 <div align="center">
   <!-- Languages -->
   <p><strong>Core Languages</strong></p>
-  <a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&amp;logo=c%2B%2B&amp;logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Kotlin_(Learning)-7F52FF?style=for-the-badge&amp;logo=kotlin&amp;logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin_(Learning)-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
 
   <br/><br/>
 
-  <!-- AI, Embedded & Systems -->
-  <p><strong>Artificial Intelligence &amp; Embedded Hardware</strong></p>
-  <a href="#"><img src="https://img.shields.io/badge/Artificial_Intelligence-FF6F00?style=for-the-badge&amp;logo=google-cloud&amp;logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Machine_Learning-00897B?style=for-the-badge&amp;logo=scikit-learn&amp;logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Arduino_Robotics-00979D?style=for-the-badge&amp;logo=arduino&amp;logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Digital_Logic_Design-4A154B?style=for-the-badge&amp;logoColor=white" /></a>
+  <!-- AI & Systems -->
+  <p><strong>Artificial Intelligence and Hardware</strong></p>
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-FF6F00?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine_Learning-00897B?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino_Robotics-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Digital_Logic_Design-4A154B?style=for-the-badge&logoColor=white" />
 
   <br/><br/>
 
-  <!-- Web & CS Fundamentals -->
-  <p><strong>Frontend &amp; Computer Science Fundamentals</strong></p>
-  <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&amp;logo=css3&amp;logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/OOP_Patterns-007ACC?style=flat-square&amp;logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-2E7D32?style=flat-square&amp;logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Relational_DB_Design-D84315?style=flat-square&amp;logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Computer_Networks-5C6BC0?style=flat-square&amp;logoColor=white" /></a>
+  <!-- Fundamentals -->
+  <p><strong>Frontend and CS Fundamentals</strong></p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/OOP_Patterns-007ACC?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Structures_and_Algorithms-2E7D32?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Relational_DB_Design-D84315?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Computer_Networks-5C6BC0?style=flat-square&logoColor=white" />
 </div>
 
 <br/>
@@ -151,7 +154,7 @@
 <!-- ==================== WORKING DYNAMIC ANALYTICS & ACTIVITY ==================== -->
 <div align="center">
   <h2 style="color: #58a6ff;">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28" height="28" /> Live GitHub Analytics &amp; Consistency
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28" height="28" /> Live GitHub Analytics
   </h2>
 </div>
 
@@ -161,12 +164,12 @@
     <tr>
       <td align="center">
         <a href="https://github.com/wahab-qadeer">
-          <img src="https://github-readme-stats.vercel.app/api?username=wahab-qadeer&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=false&amp;border_color=1f6feb&amp;title_color=58a6ff&amp;icon_color=00F2FE&amp;text_color=c9d1d9&amp;bg_color=0d1117&amp;include_all_commits=true&amp;count_private=true" alt="Wahab Qadeer GitHub Stats" width="410" />
+          <img src="https://github-readme-stats.vercel.app/api?username=wahab-qadeer&show_icons=true&theme=tokyonight&hide_border=false&border_color=1f6feb&title_color=58a6ff&icon_color=00F2FE&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&count_private=true" alt="Wahab Qadeer GitHub Stats" width="410" />
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/wahab-qadeer">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahab-qadeer&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=false&amp;border_color=1f6feb&amp;title_color=58a6ff&amp;text_color=c9d1d9&amp;bg_color=0d1117" alt="Top Languages" width="350" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahab-qadeer&layout=compact&theme=tokyonight&hide_border=false&border_color=1f6feb&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" width="350" />
         </a>
       </td>
     </tr>
@@ -176,14 +179,14 @@
 
   <!-- Active Coding Streak Tracker -->
   <a href="https://github.com/wahab-qadeer">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=wahab-qadeer&amp;theme=tokyonight&amp;hide_border=false&amp;border=1f6feb&amp;ring=00F2FE&amp;fire=00F2FE&amp;currStreakLabel=00F2FE&amp;background=0d1117" width="765" alt="GitHub Streak Tracker" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=wahab-qadeer&theme=tokyonight&hide_border=false&border=1f6feb&ring=00F2FE&fire=00F2FE&currStreakLabel=00F2FE&background=0d1117" width="765" alt="GitHub Streak Tracker" />
   </a>
 
   <br/><br/>
 
   <!-- GitHub Profile Details & Summary -->
   <a href="https://github.com/wahab-qadeer">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wahab-qadeer&amp;theme=tokyonight" width="765" alt="Contribution Graph and Repo Timeline" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wahab-qadeer&theme=tokyonight" width="765" alt="Contribution Graph and Repo Timeline" />
   </a>
 </div>
 
@@ -192,24 +195,24 @@
 <!-- ==================== FOOTER & CONTACT ==================== -->
 <div align="center">
   <h2 style="color: #58a6ff;">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="28" height="28" /> Let's Connect &amp; Collaborate
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="28" height="28" /> Let's Connect and Collaborate
   </h2>
   <p style="color: #8b949e;">Have a project idea, research proposition, or software inquiry? Reach out anytime!</p>
 
   <a href="https://wahab-qadeer.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/Official_Portfolio-00F2FE?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=black" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Official_Portfolio-00F2FE?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/wahab-qadeer/">
-    <img src="https://img.shields.io/badge/LinkedIn_Network-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn_Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="mailto:realwahabqadeer@gmail.com">
-    <img src="https://img.shields.io/badge/Send_Direct_Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Send_Direct_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 
   <br/><br/>
 
   <!-- Dynamic Bottom Wave Footer -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0052D4,50:4364F7,100:6FB1FC&amp;height=120&amp;section=footer" width="100%" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,50:4364F7,100:6FB1FC&height=120&section=footer" width="100%" alt="Footer Banner" />
 </div>
