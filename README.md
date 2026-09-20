@@ -1,103 +1,52 @@
 <div align="center">
 
-<!-- 🌟 HIGH-QUALITY ANIMATED HEADER GIF -->
-<img src="https://raw.githubusercontent.com/74038190/212284087-cb298ef9-8084-482a-a92c-15a9a149a4e3.gif" width="100%" alt="Animated Cyber Banner" />
+# 👋 Hi there, I'm Wahab Qadeer
 
-<br><br>
-
-<!-- ⌨️ ADVANCED TYPING ANIMATION -->
+<!-- Animated Typing Subtitle -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&pause=1000&color=00FF9D&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Wahab+Qadeer+👋;BS(AI)+Student+%40+BIIT;AI+%26+Machine+Learning+Developer;Java+%7C+C%2B%2B+%7C+SQL+%7C+Arduino;Turning+Coffee+Into+Code+☕" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=BS(AI)+Student+%40+BIIT;AI+%26+Machine+Learning+Developer;Software+%26+OOP+Specialist" alt="Typing SVG" />
 </a>
 
-<!-- 👁️ ANIMATED VISITOR BADGE -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=wahab-qadeer&label=PROFILE+VIEWS&color=00FF9D&style=for-the-badge&logo=github" alt="Visitor Count" />
-</p>
-
 </div>
 
 ---
 
-### 🚀 **Command Center Overview**
+## 🚀 About Me
+I build intelligent, practical software solutions that bridge the gap between complex algorithms and real-world problems. As an AI student at BIIT, my engineering focus revolves around writing clean, object-oriented code and designing robust database architectures. I am currently expanding my mobile development skill set with Kotlin while deepening my expertise in machine learning.
 
-<table align="center" width="100%" style="border: none;">
-  <tr>
-    <td width="55%" valign="top" style="border: none;">
-      <h3>👨‍💻 About My Journey</h3>
-      <ul>
-        <li>🎓 I am a <b>Computer Science student</b> pursuing a <b>BS in Artificial Intelligence at BIIT</b>.</li>
-        <li>🧠 Deeply passionate about <b>Problem Solving, Data Structures, and Algorithm Design</b>.</li>
-        <li>⚙️ Architecting logic for diverse environments, from <b>C++ console apps</b> to <b>Arduino hardware</b>.</li>
-        <li>🌱 Currently expanding my arsenal with <b>Advanced Java, Kotlin, and Backend Architecture</b>.</li>
-        <li>📫 Let's talk tech: <a href="mailto:realwahabqadeer@gmail.com"><b>realwahabqadeer@gmail.com</b></a></li>
-      </ul>
-    </td>
-    <td width="45%" align="center" valign="top" style="border: none;">
-      <!-- 🤖 ANIMATED 3D TECH CUBE GIF -->
-      <img src="https://cdn.dribbble.com/users/108183/screenshots/5283525/media/3cb33a687f8ebc7fca3859ea4342ea35.gif" width="280" style="border-radius: 20px;" alt="Tech Animation" />
-    </td>
-  </tr>
-</table>
+## 💻 Tech Stack
 
----
+**Languages & Web**
+*   ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) 
+*   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin_(Learning)-0095D5?style=flat-square&logo=kotlin&logoColor=white)
 
-### ⚡ **Core Technology Stack**
+**Core Engineering Concepts**
+*   Object-Oriented Programming (OOP) & Software Engineering
+*   Data Structures & Algorithms (DSA)
+*   Database Systems & Computer Networks
 
-<div align="center">
-  <!-- 🎨 ANIMATED FLOATING ICONS -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cpp,kotlin,python,html,css,mysql,arduino,git,github,vscode,linux&perline=12&theme=dark" alt="Wahab Tech Stack" />
-  </a>
-</div>
+**Hardware & Artificial Intelligence**
+*   ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=databricks&logoColor=white) ![AI](https://img.shields.io/badge/Artificial_Intelligence-000000?style=flat-square&logo=openai&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+*   Digital Logic Design (DLD)
 
-<br>
+## 🏆 Featured Projects & Impact
+
+*   **Smart Hospital Management System:** Engineered a robust Java backend utilizing strict OOP principles and SQL, reliably managing **100%** of core patient data workflows.
+*   **Hardware Automation Systems:** Built **2** distinct Arduino-based physical systems (Smart Fire Brigade & Irrigation Control) applying C++ automation logic and DLD concepts for real-time environmental responses.
+*   **Flight Reservation System:** Designed a relational database utilizing complex SQL queries to optimize booking and search operations.
+*   **Weather Interface:** Developed a complete **multi-page** front-end application utilizing semantic HTML and modern CSS.
+
+## 📈 GitHub Analytics
 
 <div align="center">
-  <!-- Dynamic Category Badges -->
-  <img src="https://img.shields.io/badge/Algorithms-FF0055?style=for-the-badge&logo=thealgorithms&logoColor=white" />
-  <img src="https://img.shields.io/badge/OOP_Design-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Database_Systems-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hardware_Logic-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://github-readme-stats.vercel.app/api?username=wahab-qadeer&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&text_color=ffffff&icon_color=3B82F6" alt="Wahab's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wahab-qadeer&theme=transparent&hide_border=true&title_color=3B82F6&text_color=ffffff&icon_color=3B82F6" alt="Wahab's GitHub Streak" width="48%" />
 </div>
 
----
+## 🔗 Connect with Me
 
-### 📈 **Fixed Live Analytics**
+I am always open to discussing software development, AI implementations, or new project collaborations. 
 
-<!-- I removed the buggy parameters so these load instantly and reliably -->
-<div align="center">
-  <!-- 🏆 STATS & STREAK CARDS -->
-  <img src="https://github-readme-stats.vercel.app/api?username=wahab-qadeer&show_icons=true&theme=tokyonight&hide_border=true&title_color=00FF9D" width="48%" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wahab-qadeer&theme=tokyonight&hide_border=true&ring=00FF9D&fire=00FF9D" width="48%" alt="GitHub Streak" />
-</div>
-
-<br>
-
-<div align="center">
-  <!-- 🍩 TOP LANGUAGES CHART FIXED -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wahab-qadeer&layout=donut&theme=tokyonight&hide_border=true&title_color=00FF9D&text_color=ffffff" width="48%" alt="Top Languages" />
-</div>
-
----
-
-### 🌐 **Establish Connection**
-
-<div align="center">
-  <!-- 🔗 GLOWING BUTTONS -->
-  <a href="https://www.linkedin.com/in/wahab-qadeer/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A192F?style=for-the-badge&logo=linkedin&logoColor=00FF9D" alt="LinkedIn" />
-  </a>
-  <a href="https://wahab-qadeer.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/Live_Portfolio-0A192F?style=for-the-badge&logo=google-chrome&logoColor=00FF9D" alt="Portfolio" />
-  </a>
-  <a href="mailto:realwahabqadeer@gmail.com">
-    <img src="https://img.shields.io/badge/Secure_Email-0A192F?style=for-the-badge&logo=gmail&logoColor=00FF9D" alt="Email" />
-  </a>
-</div>
-
-<!-- 🛸 ANIMATED SPACESHIP FOOTER -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ce.gif" width="100%" alt="Footer Animation" />
-</div>
+[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://wahab-qadeer.github.io/portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wahab-qadeer/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:realwahabqadeer@gmail.com)
