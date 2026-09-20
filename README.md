@@ -1,10 +1,10 @@
 <div align="center">
   <!-- Dynamic Gradient Wave Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,50:4364F7,100:6FB1FC&height=220&section=header&text=WAHAB%20QADEER&fontSize=46&fontAlignY=38&fontColor=ffffff&desc=BS(AI)%20Scholar%20•%20AI%20and%20ML%20Engineer%20•%20Software%20Specialist&descFontSize=17&descAlignY=60&descColor=00F2FE" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,50:4364F7,100:6FB1FC&height=220&section=header&text=WAHAB%20QADEER&fontSize=46&fontAlignY=38&fontColor=ffffff&desc=BS(AI)%20Student%20•%20AI%20and%20ML%20Engineer%20•%20Software%20Engineer&descFontSize=17&descAlignY=60&descColor=00F2FE" width="100%" alt="Header Banner" />
 
   <!-- Animated Neon Typing Subtitle -->
   <a href="https://wahab-qadeer.github.io/portfolio/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1200&color=00F2FE&center=true&vCenter=true&width=700&lines=BS(AI)+Scholar+%40+BIIT;AI+and+Machine+Learning+Developer;OOP+and+Backend+Software+Specialist;Building+Intelligent+Autonomous+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&pause=1200&color=00F2FE&center=true&vCenter=true&width=700&lines=BS(AI)+Student+%40+BIIT;AI+and+Machine+Learning+Engineer;Software+Engineer;Building+Intelligent+Autonomous+Systems" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -45,9 +45,9 @@
       </div>
     </td>
     <td width="35%" align="center" valign="middle">
-      <!-- Animated Code Bracket Replacement for Avatar -->
+      <!-- New Animated Developer GIF -->
       <a href="https://wahab-qadeer.github.io/portfolio/">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=60&pause=2000&color=00F2FE&center=true&vCenter=true&width=200&height=150&lines=%3C%2F%3E;%7B+%7D;(%20);%5B+%5D" alt="Animated Code Brackets" />
+        <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Animated Coding GIF" width="240" style="border: 2px solid #1f6feb; border-radius: 8px;" />
       </a>
     </td>
   </tr>
