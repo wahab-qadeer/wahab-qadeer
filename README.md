@@ -1,64 +1,54 @@
-<div align="center">
+# Wahab Qadeer
+**BS Artificial Intelligence Student @ BIIT | Software Developer**
 
-<!-- Animated Waving Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0A192F,00FF9D&height=200&section=header&text=Wahab%20Qadeer&fontSize=50&fontColor=00FF9D&animation=fadeIn&fontAlignY=38&desc=BS(AI)%20Student%20%40%20BIIT%20%7C%20AI%20%26%20ML%20Developer&descAlignY=55&descColor=FFFFFF"/>
+Welcome to my GitHub profile! I am a Computer Science student with a strong focus on Artificial Intelligence, problem-solving, and building practical software and hardware integrations. 
 
-<!-- Terminal Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF9D&center=true&vCenter=true&width=650&lines=BS(AI)+Student+%40+BIIT;Aspiring+AI+%2F+ML+Engineer;Java+%7C+C%2B%2B+%7C+SQL+%7C+Arduino;Building+cool+stuff+one+commit+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<!-- Custom Connected Badges -->
-[![Portfolio](https://img.shields.io/badge/Live_Portfolio-00FF9D?style=for-the-badge&logo=google-chrome&logoColor=0A192F)](https://wahab-qadeer.github.io/portfolio/)
-[![GitHub](https://img.shields.io/badge/GitHub-0A192F?style=for-the-badge&logo=github&logoColor=00FF9D)](https://github.com/wahab-qadeer)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A192F?style=for-the-badge&logo=linkedin&logoColor=00FF9D)](https://www.linkedin.com/in/wahab-qadeer/)
-[![Email](https://img.shields.io/badge/Email-0A192F?style=for-the-badge&logo=gmail&logoColor=00FF9D)](mailto:realwahabqadeer@gmail.com)
-
-</div>
+[LinkedIn](https://www.linkedin.com/in/wahab-qadeer/) • [Portfolio](https://wahab-qadeer.github.io/portfolio/) • [Email](mailto:realwahabqadeer@gmail.com)
 
 ---
 
-### 👨‍💻 System Identity Overview
-
-* 🎓 Currently studying **BS in Artificial Intelligence at BIIT**.
-* 🧠 Focused on **Machine Learning, Data Structures & Algorithms, and Problem Solving**.
-* 🚀 Building functional projects ranging from **Smart Irrigation Systems** to **Hospital Management Databases**.
-* 🌱 Currently leveling up in **Advanced Java, Kotlin, and Backend Development**.
-* 👯 Open to collaboration on **Automation, AI/ML, and Object-Oriented Projects**.
+### 👨‍💻 About Me
+- 🎓 Studying **BS in Artificial Intelligence** at BIIT.
+- 🌱 Expanding my knowledge in **Advanced Java, Kotlin, Data Structures & Algorithms, and Backend Development**.
+- 💡 Passionate about developing clean, efficient, and object-oriented systems.
+- 📫 Feel free to reach out for collaborations on **AI, ML, Java, and C++** projects.
 
 ---
 
-### 🛠️ Technology Arsenal
+### 🛠️ Technical Skills
 
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cpp,kotlin,html,css,mysql,arduino,git,github,vscode&perline=10&theme=dark" alt="Wahab's Tech Stack" />
-  </a>
-</div>
+**Programming Languages:** 
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) 
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![HTML/CSS](https://img.shields.io/badge/HTML%20%26%20CSS-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+**Core Competencies:**
+![OOP](https://img.shields.io/badge/Object_Oriented_Programming-252525?style=flat-square)
+![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-252525?style=flat-square)
+![AI & ML](https://img.shields.io/badge/Artificial_Intelligence-252525?style=flat-square)
+
+**Tools & Hardware:**
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-### 📈 Contribution Activity Graph
-<!-- This dynamic graph automatically plots your commit history over the last 30+ days -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wahab-qadeer&bg_color=0D1117&color=00FF9D&line=00FF9D&point=FFFFFF&area=true&hide_border=true&title_color=FFFFFF" width="100%" alt="Wahab's Activity Graph" />
-</div>
+### 🚀 Featured Projects
+
+| Project | Tech Stack | Description |
+|---------|------------|-------------|
+| **🏥 Smart Hospital Management** | `Java` `OOP` `SQL` | A comprehensive management system developed with robust database connectivity. |
+| **✈️ Flight Reservation System** | `SQL` | Relational database project focusing on complex queries and data structures. |
+| **🚒 Smart Automatic Fire Brigade** | `Arduino` `DLD` | Hardware automation project for environmental fire detection and automated response. |
+| **🌱 Smart Irrigation System** | `C++` | Core automation logic designed for intelligent water conservation and irrigation control. |
+| **🌦️ Weather Website** | `HTML` `CSS` | A multi-page, responsive web interface designed for real-time weather updates. |
 
 ---
 
-### 📊 Advanced Telemetry & Top Languages
-<!-- Real-time GitHub statistics and language distribution -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wahab-qadeer&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF9D&icon_color=00FF9D&text_color=FFFFFF&include_all_commits=true" width="48%" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahab-qadeer&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF9D&text_color=FFFFFF" width="48%" alt="Top Languages" />
-</div>
+### 📊 GitHub Statistics
 
-<br>
-
-<!-- Animated Divider Footer -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Neon Divider">
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wahab-qadeer&show_icons=true&theme=transparent&hide_border=false&border_radius=0" alt="Wahab's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahab-qadeer&layout=compact&theme=transparent&hide_border=false&border_radius=0" alt="Top Languages" width="48%" />
+</p>
