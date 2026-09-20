@@ -1,19 +1,18 @@
 <div align="center">
 
-  <!-- ================= HEADER SECTION ================= -->
-  <!-- Dynamic Gradient Wave Header -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,11,21,30&height=220&section=header&text=Wahab%20Qadeer&fontSize=52&fontColor=00F0FF&animation=fadeIn&fontAlignY=36&desc=BS(AI)%20%7C%20AI%20%26%20Machine%20Learning%20Developer%20%7C%20Software%20Engineer&descAlignY=56&descColor=A9B1D6"/>
+  <!-- ================= GREEN GRADIENT HEADER ================= -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=003300,006622,2ecc71&height=250&section=header&text=Wahab%20Qadeer&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20%7C%20Data%20Structures%20%7C%20Automations%20Model%20%7C%20Software&descAlignY=58&descColor=e6ffe6"/>
 
   <!-- Live Multi-Line Neon Typing Banner -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00F0FF&center=true&vCenter=true&width=620&lines=BS(AI)+Scholar+%40+BIIT;Architecting+Intelligent+Autonomous+Systems;Java+OOP+%7C+C%2B%2B+%7C+Relational+SQL+%7C+Arduino;Pushing+bounds+one+commit+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=2ecc71&center=true&vCenter=true&width=620&lines=Architecting+Intelligent+Autonomous+Systems;AI+%26+Machine+Learning+Developer;Java+OOP+%7C+C%2B%2B+%7C+Relational+SQL+%7C+Arduino;Pushing+bounds+one+commit+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 
   <br/><br/>
 
   <!-- Interactive Glowing Social & Live View Badges -->
   <a href="https://wahab-qadeer.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/Live_Portfolio-00F0FF?style=for-the-badge&logo=google-chrome&logoColor=0B0F19" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Live_Portfolio-2ecc71?style=for-the-badge&logo=google-chrome&logoColor=0B0F19" alt="Portfolio" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/wahab-qadeer/">
@@ -24,12 +23,12 @@
     <img src="https://img.shields.io/badge/Direct_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=wahab-qadeer&label=Live+Traffic&color=00F0FF&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=wahab-qadeer&label=Live+Traffic&color=2ecc71&style=for-the-badge" alt="Profile Views" />
 
   <br/><br/>
 
   <!-- Dynamic GitHub Achievements Showcase -->
-  <img src="https://github-profile-trophy.vercel.app/?username=wahab-qadeer&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Wahab's Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=wahab-qadeer&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Wahab's Trophies" />
 
 </div>
 
@@ -82,26 +81,20 @@
 
 <div align="center">
 
-  <!-- 3D Contribution Landscape / Isometric Calendar -->
-  <p><b>🌌 Isometric Activity Matrix</b></p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wahab-qadeer&theme=tokyonight" width="95%" alt="Profile Summary Card" />
-
-  <br/><br/>
-
-  <!-- Interactive Activity Distribution Trend -->
+  <!-- Interactive Activity Distribution Trend (Reliable Version) -->
   <p><b>⚡ Activity Distribution Waveform</b></p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wahab-qadeer&theme=tokyo-night&hide_border=true&area=true&color=00F0FF&line=00F0FF&point=7AA2F7" width="95%" alt="Wahab's Activity Waveform" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wahab-qadeer&bg_color=0d1117&color=2ecc71&line=2ecc71&point=ffffff&area=true&hide_border=true" width="95%" alt="Wahab's Activity Waveform" />
 
   <br/><br/>
 
-  <!-- Core Performance & Streak Telemetry -->
+  <!-- Core Performance & Streak Telemetry (Dark/Green Theme) -->
   <table width="100%">
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=wahab-qadeer&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=00F0FF&icon_color=00F0FF&text_color=A9B1D6" width="100%" alt="GitHub Core Analytics" />
+        <img src="https://github-readme-stats.vercel.app/api?username=wahab-qadeer&show_icons=true&bg_color=0d1117&title_color=2ecc71&icon_color=2ecc71&text_color=ffffff&hide_border=true&include_all_commits=true&count_private=true" width="100%" alt="GitHub Core Analytics" />
       </td>
       <td width="50%" align="center">
-        <img src="https://streak-stats.demolab.com?user=wahab-qadeer&theme=tokyonight&hide_border=true&ring=00F0FF&fire=00F0FF&currStreakNum=00F0FF&sideNums=A9B1D6&dates=7AA2F7" width="100%" alt="Continuous Streak Analytics" />
+        <img src="https://streak-stats.demolab.com?user=wahab-qadeer&background=0d1117&border=0d1117&ring=2ecc71&fire=2ecc71&currStreakNum=ffffff&currStreakLabel=2ecc71&sideNums=ffffff&sideLabels=ffffff&dates=2ecc71" width="100%" alt="Continuous Streak Analytics" />
       </td>
     </tr>
   </table>
@@ -109,16 +102,7 @@
   <br/>
 
   <!-- Language Distribution Visualizer -->
-  <table width="100%">
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahab-qadeer&layout=compact&theme=tokyonight&hide_border=true&title_color=00F0FF&text_color=A9B1D6" width="100%" alt="Top Languages" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wahab-qadeer&theme=tokyonight" width="100%" alt="Commit Language Breakdown" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahab-qadeer&layout=compact&bg_color=0d1117&title_color=2ecc71&text_color=ffffff&hide_border=true" width="50%" alt="Top Languages" />
 
 </div>
 
@@ -146,7 +130,7 @@
   </a>
   &nbsp;
   <a href="https://wahab-qadeer.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-Explore-00F0FF?style=for-the-badge&logo=google-chrome&logoColor=0B0F19" />
+    <img src="https://img.shields.io/badge/Portfolio-Explore-2ecc71?style=for-the-badge&logo=google-chrome&logoColor=0B0F19" />
   </a>
   &nbsp;
   <a href="mailto:realwahabqadeer@gmail.com">
@@ -154,6 +138,12 @@
   </a>
 
   <br/><br/>
-  <!-- Dynamic Footer Wave -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,11,21,30&height=100&section=footer"/>
+  
+  <!-- Cool Animation at Bottom -->
+  <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="200" alt="Hacker Coding Animation" style="border-radius: 10px;" />
+
+  <br/><br/>
+  
+  <!-- Dynamic Footer Wave (Green to Match Header) -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=003300,006622,2ecc71&height=100&section=footer"/>
 </div>
