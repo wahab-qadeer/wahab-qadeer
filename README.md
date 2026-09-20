@@ -1,7 +1,7 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1A1B26,2ecc71&height=200&section=header&text=Wahab%20Qadeer&fontSize=50&fontColor=2ecc71&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Machine%20Learning%20Developer%20%7C%20BS(AI)%20Student&descAlignY=55&descColor=A9B1D6"/>
   
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=25&duration=2000&pause=1000&color=2ecc71&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Wahab+Qadeer+👋;BS(AI)+Student+%40+BIIT;AI+%26+Machine+Learning+Developer;Software+%26+OOP+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=BS(AI)+Student+%40+BIIT;AI+%26+Machine+Learning+Developer;Java+%26+C%2B%2B+Programmer;Building+Smart+Systems" alt="Typing SVG" />
   
   <br>
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmaqkqsxj9xpr4zbq5v2mldcngb2&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="130">
@@ -37,35 +37,10 @@
 
 ### 📂 Featured Projects
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/wahab-qadeer/Smart-Hospital-Management">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=wahab-qadeer&repo=Smart-Hospital-Management&theme=tokyonight&border_color=2ecc71" alt="Smart Hospital Management Card" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/wahab-qadeer/Flight-Reservation-System">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=wahab-qadeer&repo=Flight-Reservation-System&theme=tokyonight&border_color=2ecc71" alt="Flight Reservation System Card" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/wahab-qadeer/Smart-Irrigation-System">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=wahab-qadeer&repo=Smart-Irrigation-System&theme=tokyonight&border_color=2ecc71" alt="Smart Irrigation System Card" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/wahab-qadeer/Smart-Automatic-Fire-Brigade">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=wahab-qadeer&repo=Smart-Automatic-Fire-Brigade&theme=tokyonight&border_color=2ecc71" alt="Fire Brigade Card" />
-        </a>
-      </td>
-    </tr>
-  </table>
-  <p><i>💡 Click any project box above to view the repository and source code!</i></p>
-</div>
+* 🏥 **[Smart Hospital Management System](https://github.com/wahab-qadeer/Smart-Hospital-Management):** A robust Java and OOP-based platform utilizing SQL databases to handle records and administrative tasks efficiently.
+* ✈️ **[Flight Reservation System](https://github.com/wahab-qadeer/Flight-Reservation-System):** A comprehensive database application demonstrating relational modeling, cardinality design, and advanced SQL queries.
+* 🌱 **[Smart Irrigation System](https://github.com/wahab-qadeer/Smart-Irrigation-System):** A precision C++ console project featuring automated scheduling logic, soil monitoring, and array manipulations.
+* 🚒 **[Smart Automatic Fire Brigade](https://github.com/wahab-qadeer/Smart-Automatic-Fire-Brigade):** An Arduino-powered hardware automation setup leveraging digital logic design principles for rapid fire detection and response.
 
 ---
 
@@ -76,6 +51,16 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=wahab-qadeer&theme=tokyonight&hide_border=true&ring=2ecc71&fire=2ecc71&currStreakNum=2ecc71" alt="Wahab's GitHub Streak" width="48%" />
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahab-qadeer&layout=compact&theme=tokyonight&hide_border=true&title_color=2ecc71" alt="Top Languages" />
+</div>
+
+---
+
+### 🤖 AI Thought & Philosophy
+
+<div align="center">
+  <blockquote>
+    <i>"Artificial intelligence will reach human levels by around 2029. Follow that out further to, say, 2045, we will have multiplied the intelligence, the human biological machine intelligence of our civilization a billion-fold."</i> — <b>Ray Kurzweil</b>
+  </blockquote>
 </div>
 
 ---
